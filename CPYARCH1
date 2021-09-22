@@ -1,0 +1,3 @@
+           01 PAIS-HABITANTES.
+            05 ARCHIVO1-COD-PAIS           PIC X(3).
+            05 ARCHIVO1-HABITANTES         PIC 9(9).

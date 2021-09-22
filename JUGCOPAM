@@ -1,0 +1,13 @@
+      *----------------------------------------------------------*
+      * DISEÑO DE REGISTRO DEL ARCHIVO JUGADORES DE COPA AMERICA
+      *----------------------------------------------------------*
+       01  JUGCOPAM.
+           05  JUGCOPAM-NOMBRE PIC X(20).
+           05  JUGCOPAM-CLUB   PIC X(16).
+           05  JUGCOPAM-PAIS   PIC X(03).
+           05  JUGCOPAM-POS    PIC X(03).
+           05  JUGCOPAM-NUM    PIC 9(02).
+           05  JUGCOPAM-GOLES  PIC 9(02).
+           05  JUGCOPAM-ASIST  PIC 9(02).
+           05  JUGCOPAM-TROJ   PIC 9(02).
+           05  JUGCOPAM-TAMA   PIC 9(02).

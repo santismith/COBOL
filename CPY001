@@ -1,0 +1,6 @@
+           01 INFO-CUENTAS.
+              05 CTA-PAIS      PIC X(03).
+              05 CTA-SUCURSAL  PIC 9(02).
+              05 CTA-TIPO-CTA  PIC X(02).
+              05 CTA-CUENTA    PIC 9(03).
+              05 CTA-SALDO     PIC 9(07).
